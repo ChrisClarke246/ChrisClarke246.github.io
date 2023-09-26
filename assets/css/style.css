@@ -351,7 +351,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .steel_blue {
   padding: 0 10px;
 }
 
@@ -546,24 +546,24 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .steel_blue-text */
 
-.teal-text {
-  color: #008073 !important;
+.steel_blue-text {
+  color: #386ca1 !important;
 }
 
-/* .teal-text {
+/* .steel_blue-text {
   color: #0b5e86 !important;
 } */
 
-/* .teal */
+/* .steel_blue */
 
-.teal {
-  background-color: #008073 !important;
+.steel_blue {
+  background-color: #386ca1 !important;
 }
 
-/* .teal {
-  background-color: #00695c !important;
+/* .steel_blue {
+  background-color: #386ca1 !important;
 } */
 
 @media (min-width: 1200px) {
