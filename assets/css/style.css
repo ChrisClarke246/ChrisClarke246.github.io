@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(70, 105, 142, 0.603); 
   border-radius: 50% !important;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #46afcb repeat;
+  background: #617bac repeat;
   position: relative;
 }
 
@@ -348,7 +348,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #334a71;
 }
 
 #intro.section .steel_blue {
@@ -559,7 +559,7 @@ small {
 /* .steel_blue */
 
 .steel_blue {
-  background-color: #6182a2 !important;
+  background-color: #214970 !important;
 }
 
 /* .steel_blue {
